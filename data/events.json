@@ -1,0 +1,552 @@
+{
+  "events": [
+    {
+      "id": "taiyuan-qibing",
+      "title": "太原起兵",
+      "period": "隋末唐初",
+      "year": "617年",
+      "summary": "李渊在太原起兵反隋，率众西入长安，次年称帝建立唐朝，揭开李唐三百年基业。",
+      "consequences": "唐朝建立，李渊成为唐高祖，开启统一战争。",
+      "characters": [
+        {
+          "id": "liyuan",
+          "name": "李渊"
+        },
+        {
+          "id": "lishimin",
+          "name": "李世民"
+        },
+        {
+          "id": "lijiancheng",
+          "name": "李建成"
+        },
+        {
+          "id": "peiji-2",
+          "name": "裴寂"
+        },
+        {
+          "id": "liuwenjing",
+          "name": "刘文静"
+        },
+        {
+          "id": null,
+          "name": "李元吉"
+        }
+      ]
+    },
+    {
+      "id": "xuanwu-gate",
+      "title": "玄武门之变",
+      "period": "初唐",
+      "year": "626年",
+      "summary": "秦王李世民在长安玄武门伏杀太子李建成、齐王李元吉，随后被立为太子，旋即即位。",
+      "consequences": "李世民登基为唐太宗，贞观之治拉开序幕。",
+      "characters": [
+        {
+          "id": "lishimin",
+          "name": "李世民"
+        },
+        {
+          "id": "lijiancheng",
+          "name": "李建成"
+        },
+        {
+          "id": "liyuan",
+          "name": "李渊"
+        },
+        {
+          "id": "yuchigong",
+          "name": "尉迟恭"
+        },
+        {
+          "id": "zhangsunwuji",
+          "name": "长孙无忌"
+        },
+        {
+          "id": null,
+          "name": "李元吉"
+        }
+      ]
+    },
+    {
+      "id": "zhenguan-zhizhi",
+      "title": "贞观之治",
+      "period": "初唐",
+      "year": "627—649年",
+      "summary": "唐太宗在位期间励精图治，纳谏任贤，轻徭薄赋，社会安定，被誉为治世典范。",
+      "consequences": "奠定唐朝强盛根基，形成政治清明、经济恢复的局面。",
+      "characters": [
+        {
+          "id": "lishimin",
+          "name": "李世民"
+        },
+        {
+          "id": "weizheng",
+          "name": "魏征"
+        },
+        {
+          "id": "fangxuanling",
+          "name": "房玄龄"
+        },
+        {
+          "id": "duruhui",
+          "name": "杜如晦"
+        },
+        {
+          "id": "zhangsunwuji",
+          "name": "长孙无忌"
+        },
+        {
+          "id": "lijing",
+          "name": "李靖"
+        }
+      ]
+    },
+    {
+      "id": "mie-dongtujue",
+      "title": "灭东突厥",
+      "period": "初唐",
+      "year": "630年",
+      "summary": "唐太宗派李靖、李勣等分道出击，大破东突厥，俘颉利可汗，漠南归附。",
+      "consequences": "唐朝声威远播，太宗被尊为“天可汗”，边疆获得长期安定。",
+      "characters": [
+        {
+          "id": "lishimin",
+          "name": "李世民"
+        },
+        {
+          "id": "lijing",
+          "name": "李靖"
+        },
+        {
+          "id": "jielikehan",
+          "name": "颉利可汗"
+        },
+        {
+          "id": null,
+          "name": "李勣"
+        }
+      ]
+    },
+    {
+      "id": "wuhou-chengzhi",
+      "title": "武后临朝与武周称制",
+      "period": "初唐",
+      "year": "660—705年",
+      "summary": "武则天由皇后临朝称制，逐步翦除政敌，改唐为周，成为中国历史上唯一的正统女皇帝。",
+      "consequences": "女主当国近半个世纪，打击门阀、发展科举，为开元盛世积蓄人才。",
+      "characters": [
+        {
+          "id": "wuzetian",
+          "name": "武则天"
+        },
+        {
+          "id": "direnjie",
+          "name": "狄仁杰"
+        },
+        {
+          "id": "laijunchen",
+          "name": "来俊臣"
+        },
+        {
+          "id": "shangguanwaner",
+          "name": "上官婉儿"
+        },
+        {
+          "id": null,
+          "name": "唐高宗"
+        },
+        {
+          "id": null,
+          "name": "李显"
+        }
+      ]
+    },
+    {
+      "id": "shenlong-zhengbian",
+      "title": "神龙政变",
+      "period": "初唐",
+      "year": "705年",
+      "summary": "张柬之等五王发动政变，逼武则天退位，中宗李显复位，唐朝复辟。",
+      "consequences": "武周政权结束，李唐复国，但韦后、安乐公主等很快干政。",
+      "characters": [
+        {
+          "id": "zhangjianzhi",
+          "name": "张柬之"
+        },
+        {
+          "id": "wuzetian",
+          "name": "武则天"
+        },
+        {
+          "id": "shangguanwaner",
+          "name": "上官婉儿"
+        },
+        {
+          "id": "weihou",
+          "name": "韦后"
+        },
+        {
+          "id": null,
+          "name": "李显"
+        }
+      ]
+    },
+    {
+      "id": "xiantian-zhengbian",
+      "title": "先天政变",
+      "period": "盛唐",
+      "year": "713年",
+      "summary": "李隆基先发制人，诛灭太平公主势力，巩固皇权，随后改元开元。",
+      "consequences": "玄宗李隆基完全掌握政权，开元盛世由此开启。",
+      "characters": [
+        {
+          "id": "lilongji",
+          "name": "李隆基"
+        },
+        {
+          "id": "taipinggongzhu",
+          "name": "太平公主"
+        },
+        {
+          "id": "gaolishi",
+          "name": "高力士"
+        },
+        {
+          "id": "yaochong",
+          "name": "姚崇"
+        }
+      ]
+    },
+    {
+      "id": "kaiyuan-shengshi",
+      "title": "开元盛世",
+      "period": "盛唐",
+      "year": "713—741年",
+      "summary": "唐玄宗励精图治，任用姚崇、宋璟、张九龄等贤相，国力强盛，文化繁荣。",
+      "consequences": "唐朝达到鼎盛，长安成为国际性大都会，为后世留下丰厚文化遗产。",
+      "characters": [
+        {
+          "id": "lilongji",
+          "name": "李隆基"
+        },
+        {
+          "id": "yaochong",
+          "name": "姚崇"
+        },
+        {
+          "id": "zhangjiuling",
+          "name": "张九龄"
+        },
+        {
+          "id": "libai",
+          "name": "李白"
+        },
+        {
+          "id": "yangguifei",
+          "name": "杨贵妃"
+        },
+        {
+          "id": null,
+          "name": "宋璟"
+        }
+      ]
+    },
+    {
+      "id": "tianbao-weiji",
+      "title": "天宝危机",
+      "period": "盛唐",
+      "year": "742—755年",
+      "summary": "玄宗晚年怠政，李林甫、杨国忠相继专权，边将安禄山势力坐大，朝政腐败。",
+      "consequences": "中央与边镇矛盾激化，为安史之乱埋下祸根。",
+      "characters": [
+        {
+          "id": "lilongji",
+          "name": "李隆基"
+        },
+        {
+          "id": "yangguifei",
+          "name": "杨贵妃"
+        },
+        {
+          "id": "yangguozhong",
+          "name": "杨国忠"
+        },
+        {
+          "id": "lilinfu",
+          "name": "李林甫"
+        },
+        {
+          "id": "anlushan",
+          "name": "安禄山"
+        }
+      ]
+    },
+    {
+      "id": "anshi-zhiluan",
+      "title": "安史之乱",
+      "period": "盛唐",
+      "year": "755—763年",
+      "summary": "安禄山、史思明发动叛乱，攻陷两京，玄宗出逃，唐朝由盛转衰。",
+      "consequences": "人口锐减，藩镇割据形成，均田制与府兵制瓦解，唐朝国力大损。",
+      "characters": [
+        {
+          "id": "anlushan",
+          "name": "安禄山"
+        },
+        {
+          "id": "shisiming",
+          "name": "史思明"
+        },
+        {
+          "id": "lilongji",
+          "name": "李隆基"
+        },
+        {
+          "id": "yangguifei",
+          "name": "杨贵妃"
+        },
+        {
+          "id": "guoziyi",
+          "name": "郭子仪"
+        },
+        {
+          "id": "liguangbi",
+          "name": "李光弼"
+        },
+        {
+          "id": "dufu",
+          "name": "杜甫"
+        }
+      ]
+    },
+    {
+      "id": "suiyang-zhishou",
+      "title": "睢阳之守",
+      "period": "中唐",
+      "year": "757年",
+      "summary": "张巡、许远以少量兵力死守睢阳，阻滞叛军南下，保障江淮财源。",
+      "consequences": "为唐朝平定叛乱赢得战略时间，但城中粮尽，军民伤亡惨重。",
+      "characters": [
+        {
+          "id": "zhangxun",
+          "name": "张巡"
+        },
+        {
+          "id": "xuyuan",
+          "name": "许远"
+        },
+        {
+          "id": "nanjiyun",
+          "name": "南霁云"
+        },
+        {
+          "id": null,
+          "name": "尹子奇"
+        }
+      ]
+    },
+    {
+      "id": "fengtian-zhinan",
+      "title": "奉天之难",
+      "period": "中唐",
+      "year": "783年",
+      "summary": "泾原兵变，朱泚称帝，唐德宗逃往奉天，李晟等率军勤王收复长安。",
+      "consequences": "德宗对藩镇由武力削藩转向姑息，宦官势力进一步膨胀。",
+      "characters": [
+        {
+          "id": "zhuci",
+          "name": "朱泚"
+        },
+        {
+          "id": "licheng",
+          "name": "李晟"
+        },
+        {
+          "id": "lihuaiguang",
+          "name": "李怀光"
+        },
+        {
+          "id": null,
+          "name": "唐德宗"
+        }
+      ]
+    },
+    {
+      "id": "ping-huaixi",
+      "title": "平淮西",
+      "period": "中唐",
+      "year": "817年",
+      "summary": "唐宪宗命裴度督师，李愬雪夜袭蔡州，擒吴元济，淮西之乱平定。",
+      "consequences": "元和中兴达到顶点，藩镇一度重新归顺中央。",
+      "characters": [
+        {
+          "id": "peidu",
+          "name": "裴度"
+        },
+        {
+          "id": "lisu",
+          "name": "李愬"
+        },
+        {
+          "id": "wuyuanji",
+          "name": "吴元济"
+        },
+        {
+          "id": "hanyu",
+          "name": "韩愈"
+        },
+        {
+          "id": null,
+          "name": "唐宪宗"
+        }
+      ]
+    },
+    {
+      "id": "niuli-dangzheng",
+      "title": "牛李党争",
+      "period": "中晚唐",
+      "year": "808—846年",
+      "summary": "以牛僧孺为首的牛党与李德裕为首的李党长期倾轧，延绵近四十年。",
+      "consequences": "内耗严重，人才任用受党争影响，加速政治衰败。",
+      "characters": [
+        {
+          "id": "niusengru",
+          "name": "牛僧孺"
+        },
+        {
+          "id": "lideyu",
+          "name": "李德裕"
+        },
+        {
+          "id": "lizongmin",
+          "name": "李宗闵"
+        },
+        {
+          "id": "baijuyi",
+          "name": "白居易"
+        },
+        {
+          "id": "lishangyin",
+          "name": "李商隐"
+        }
+      ]
+    },
+    {
+      "id": "ganlu-zhibian",
+      "title": "甘露之变",
+      "period": "晚唐",
+      "year": "835年",
+      "summary": "唐文宗与宰相李训等谋诛宦官，事泄失败，宦官仇士良大肆屠杀朝臣。",
+      "consequences": "南衙北司之争中宦官彻底占上风，皇帝形同傀儡。",
+      "characters": [
+        {
+          "id": "lixun",
+          "name": "李训"
+        },
+        {
+          "id": "choushiliang",
+          "name": "仇士良"
+        },
+        {
+          "id": "wangshoucheng",
+          "name": "王守澄"
+        },
+        {
+          "id": "zhengzhu",
+          "name": "郑注"
+        },
+        {
+          "id": null,
+          "name": "唐文宗"
+        }
+      ]
+    },
+    {
+      "id": "huangchao-qiyi",
+      "title": "黄巢起义",
+      "period": "晚唐",
+      "year": "875—884年",
+      "summary": "黄巢率义军转战大半个唐朝，一度攻占长安称帝，国号大齐。",
+      "consequences": "唐朝统治根基被摧毁，藩镇借平叛扩张，中央名存实亡。",
+      "characters": [
+        {
+          "id": "huangchao",
+          "name": "黄巢"
+        },
+        {
+          "id": "likeyong",
+          "name": "李克用"
+        },
+        {
+          "id": "zhuwen",
+          "name": "朱温"
+        },
+        {
+          "id": "gaopian",
+          "name": "高骈"
+        },
+        {
+          "id": null,
+          "name": "唐僖宗"
+        }
+      ]
+    },
+    {
+      "id": "zhuwen-jueqi",
+      "title": "朱温崛起",
+      "period": "晚唐",
+      "year": "884—901年",
+      "summary": "朱温降唐后借平黄巢、击秦宗权等战功成为最大藩镇，控制中原。",
+      "consequences": "朱温势力坐大，开始挟天子以令诸侯。",
+      "characters": [
+        {
+          "id": "zhuwen",
+          "name": "朱温"
+        },
+        {
+          "id": "huangchao",
+          "name": "黄巢"
+        },
+        {
+          "id": "likeyong",
+          "name": "李克用"
+        },
+        {
+          "id": null,
+          "name": "唐僖宗"
+        },
+        {
+          "id": null,
+          "name": "唐昭宗"
+        }
+      ]
+    },
+    {
+      "id": "zhuwen-cuantang",
+      "title": "朱温篡唐",
+      "period": "晚唐",
+      "year": "907年",
+      "summary": "朱温废唐哀帝，自立为帝，国号梁，唐朝灭亡。",
+      "consequences": "唐朝终结，五代十国乱世开始。",
+      "characters": [
+        {
+          "id": "zhuwen",
+          "name": "朱温"
+        },
+        {
+          "id": null,
+          "name": "唐哀帝"
+        },
+        {
+          "id": null,
+          "name": "李振"
+        },
+        {
+          "id": null,
+          "name": "柳璨"
+        }
+      ]
+    }
+  ]
+}

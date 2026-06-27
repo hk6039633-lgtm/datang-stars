@@ -1,0 +1,832 @@
+{
+  "emperorMeta": {
+    "liyuan": {
+      "canonicalName": "李渊",
+      "displayName": "李渊",
+      "personalName": "李渊",
+      "templeName": "高祖",
+      "dynastyTitle": "唐高祖",
+      "formerTitle": "唐国公",
+      "aliases": [
+        "李渊",
+        "唐高祖",
+        "高祖",
+        "唐国公"
+      ],
+      "score": 92
+    },
+    "lishimin": {
+      "canonicalName": "李世民",
+      "displayName": "李世民",
+      "personalName": "李世民",
+      "templeName": "太宗",
+      "dynastyTitle": "唐太宗",
+      "formerTitle": "秦王",
+      "aliases": [
+        "李世民",
+        "太宗",
+        "唐太宗",
+        "秦王",
+        "世民"
+      ],
+      "score": 100
+    },
+    "gaozong": {
+      "canonicalName": "李治",
+      "displayName": "李治",
+      "personalName": "李治",
+      "templeName": "高宗",
+      "dynastyTitle": "唐高宗",
+      "formerTitle": "晋王",
+      "aliases": [
+        "李治",
+        "高宗",
+        "唐高宗",
+        "晋王"
+      ],
+      "score": 90
+    },
+    "wuzetian": {
+      "canonicalName": "武则天",
+      "displayName": "武则天",
+      "personalName": "武曌",
+      "templeName": "",
+      "dynastyTitle": "武周皇帝",
+      "formerTitle": "武后",
+      "aliases": [
+        "武则天",
+        "武曌",
+        "武后",
+        "则天皇后",
+        "则天皇帝",
+        "武周皇帝"
+      ],
+      "score": 98
+    },
+    "zhongzong": {
+      "canonicalName": "李显",
+      "displayName": "李显",
+      "personalName": "李显",
+      "templeName": "中宗",
+      "dynastyTitle": "唐中宗",
+      "formerTitle": "英王",
+      "aliases": [
+        "李显",
+        "中宗",
+        "唐中宗",
+        "英王"
+      ],
+      "score": 82
+    },
+    "ruizong": {
+      "canonicalName": "李旦",
+      "displayName": "李旦",
+      "personalName": "李旦",
+      "templeName": "睿宗",
+      "dynastyTitle": "唐睿宗",
+      "formerTitle": "相王",
+      "aliases": [
+        "李旦",
+        "睿宗",
+        "唐睿宗",
+        "相王"
+      ],
+      "score": 80
+    },
+    "lilongji": {
+      "canonicalName": "李隆基",
+      "displayName": "李隆基",
+      "personalName": "李隆基",
+      "templeName": "玄宗",
+      "dynastyTitle": "唐玄宗",
+      "formerTitle": "临淄王",
+      "aliases": [
+        "李隆基",
+        "玄宗",
+        "唐玄宗",
+        "明皇",
+        "临淄王"
+      ],
+      "score": 95
+    },
+    "suzong": {
+      "canonicalName": "李亨",
+      "displayName": "李亨",
+      "personalName": "李亨",
+      "templeName": "肃宗",
+      "dynastyTitle": "唐肃宗",
+      "formerTitle": "忠王",
+      "aliases": [
+        "李亨",
+        "肃宗",
+        "唐肃宗",
+        "忠王"
+      ],
+      "score": 86
+    },
+    "daizong": {
+      "canonicalName": "李豫",
+      "displayName": "李豫",
+      "personalName": "李豫",
+      "templeName": "代宗",
+      "dynastyTitle": "唐代宗",
+      "formerTitle": "广平王",
+      "aliases": [
+        "李豫",
+        "代宗",
+        "唐代宗",
+        "广平王"
+      ],
+      "score": 84
+    },
+    "dezong": {
+      "canonicalName": "李适",
+      "displayName": "李适",
+      "personalName": "李适",
+      "templeName": "德宗",
+      "dynastyTitle": "唐德宗",
+      "formerTitle": "雍王",
+      "aliases": [
+        "李适",
+        "德宗",
+        "唐德宗",
+        "雍王"
+      ],
+      "score": 83
+    },
+    "shunzong": {
+      "canonicalName": "李诵",
+      "displayName": "李诵",
+      "personalName": "李诵",
+      "templeName": "顺宗",
+      "dynastyTitle": "唐顺宗",
+      "formerTitle": "宣城郡王",
+      "aliases": [
+        "李诵",
+        "顺宗",
+        "唐顺宗"
+      ],
+      "score": 72
+    },
+    "xianzong": {
+      "canonicalName": "李纯",
+      "displayName": "李纯",
+      "personalName": "李纯",
+      "templeName": "宪宗",
+      "dynastyTitle": "唐宪宗",
+      "formerTitle": "广陵王",
+      "aliases": [
+        "李纯",
+        "宪宗",
+        "唐宪宗",
+        "广陵王"
+      ],
+      "score": 88
+    },
+    "muzong": {
+      "canonicalName": "李恒",
+      "displayName": "李恒",
+      "personalName": "李恒",
+      "templeName": "穆宗",
+      "dynastyTitle": "唐穆宗",
+      "formerTitle": "遂王",
+      "aliases": [
+        "李恒",
+        "穆宗",
+        "唐穆宗",
+        "遂王"
+      ],
+      "score": 75
+    },
+    "jingzong": {
+      "canonicalName": "李湛",
+      "displayName": "李湛",
+      "personalName": "李湛",
+      "templeName": "敬宗",
+      "dynastyTitle": "唐敬宗",
+      "formerTitle": "景王",
+      "aliases": [
+        "李湛",
+        "敬宗",
+        "唐敬宗",
+        "景王"
+      ],
+      "score": 70
+    },
+    "wenzong": {
+      "canonicalName": "李昂",
+      "displayName": "李昂",
+      "personalName": "李昂",
+      "templeName": "文宗",
+      "dynastyTitle": "唐文宗",
+      "formerTitle": "江王",
+      "aliases": [
+        "李昂",
+        "文宗",
+        "唐文宗",
+        "江王"
+      ],
+      "score": 76
+    },
+    "wuzong": {
+      "canonicalName": "李炎",
+      "displayName": "李炎",
+      "personalName": "李炎",
+      "templeName": "武宗",
+      "dynastyTitle": "唐武宗",
+      "formerTitle": "颍王",
+      "aliases": [
+        "李炎",
+        "武宗",
+        "唐武宗",
+        "颍王"
+      ],
+      "score": 78
+    },
+    "xuanzong": {
+      "canonicalName": "李忱",
+      "displayName": "李忱",
+      "personalName": "李忱",
+      "templeName": "宣宗",
+      "dynastyTitle": "唐宣宗",
+      "formerTitle": "光王",
+      "aliases": [
+        "李忱",
+        "宣宗",
+        "唐宣宗",
+        "光王"
+      ],
+      "score": 86
+    },
+    "yizong": {
+      "canonicalName": "李漼",
+      "displayName": "李漼",
+      "personalName": "李漼",
+      "templeName": "懿宗",
+      "dynastyTitle": "唐懿宗",
+      "formerTitle": "郓王",
+      "aliases": [
+        "李漼",
+        "懿宗",
+        "唐懿宗",
+        "郓王"
+      ],
+      "score": 68
+    },
+    "xizong": {
+      "canonicalName": "李儇",
+      "displayName": "李儇",
+      "personalName": "李儇",
+      "templeName": "僖宗",
+      "dynastyTitle": "唐僖宗",
+      "formerTitle": "普王",
+      "aliases": [
+        "李儇",
+        "僖宗",
+        "唐僖宗",
+        "普王"
+      ],
+      "score": 72
+    },
+    "zhaozong": {
+      "canonicalName": "李晔",
+      "displayName": "李晔",
+      "personalName": "李晔",
+      "templeName": "昭宗",
+      "dynastyTitle": "唐昭宗",
+      "formerTitle": "寿王",
+      "aliases": [
+        "李晔",
+        "昭宗",
+        "唐昭宗",
+        "寿王"
+      ],
+      "score": 78
+    },
+    "zhaoxuandi": {
+      "canonicalName": "李柷",
+      "displayName": "李柷",
+      "personalName": "李柷",
+      "templeName": "",
+      "dynastyTitle": "唐哀帝",
+      "formerTitle": "辉王",
+      "aliases": [
+        "李柷",
+        "哀帝",
+        "唐哀帝",
+        "昭宣帝",
+        "辉王"
+      ],
+      "score": 65
+    }
+  },
+  "categoryFixes": [
+    {
+      "id": "lishimin",
+      "oldName": "李世民",
+      "newName": "李世民",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李世民",
+        "太宗",
+        "唐太宗",
+        "秦王",
+        "世民"
+      ],
+      "score": 100
+    },
+    {
+      "id": "liyuan",
+      "oldName": "李渊",
+      "newName": "李渊",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李渊",
+        "唐高祖",
+        "高祖",
+        "唐国公"
+      ],
+      "score": 92
+    },
+    {
+      "id": "lilongji",
+      "oldName": "李隆基",
+      "newName": "李隆基",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李隆基",
+        "玄宗",
+        "唐玄宗",
+        "明皇",
+        "临淄王"
+      ],
+      "score": 95
+    },
+    {
+      "id": "wuzetian",
+      "oldName": "武则天",
+      "newName": "武则天",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "武则天",
+        "武曌",
+        "武后",
+        "则天皇后",
+        "则天皇帝",
+        "武周皇帝"
+      ],
+      "score": 98
+    },
+    {
+      "id": "gaozong",
+      "oldName": "李治",
+      "newName": "李治",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李治",
+        "高宗",
+        "唐高宗",
+        "晋王"
+      ],
+      "score": 90
+    },
+    {
+      "id": "zhongzong",
+      "oldName": "李显",
+      "newName": "李显",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李显",
+        "中宗",
+        "唐中宗",
+        "英王"
+      ],
+      "score": 82
+    },
+    {
+      "id": "ruizong",
+      "oldName": "李旦",
+      "newName": "李旦",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李旦",
+        "睿宗",
+        "唐睿宗",
+        "相王"
+      ],
+      "score": 80
+    },
+    {
+      "id": "suzong",
+      "oldName": "李亨",
+      "newName": "李亨",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李亨",
+        "肃宗",
+        "唐肃宗",
+        "忠王"
+      ],
+      "score": 86
+    },
+    {
+      "id": "daizong",
+      "oldName": "李豫",
+      "newName": "李豫",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李豫",
+        "代宗",
+        "唐代宗",
+        "广平王"
+      ],
+      "score": 84
+    },
+    {
+      "id": "dezong",
+      "oldName": "李适",
+      "newName": "李适",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李适",
+        "德宗",
+        "唐德宗",
+        "雍王"
+      ],
+      "score": 83
+    },
+    {
+      "id": "shunzong",
+      "oldName": "李诵",
+      "newName": "李诵",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李诵",
+        "顺宗",
+        "唐顺宗"
+      ],
+      "score": 72
+    },
+    {
+      "id": "xianzong",
+      "oldName": "李纯",
+      "newName": "李纯",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李纯",
+        "宪宗",
+        "唐宪宗",
+        "广陵王"
+      ],
+      "score": 88
+    },
+    {
+      "id": "muzong",
+      "oldName": "李恒",
+      "newName": "李恒",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李恒",
+        "穆宗",
+        "唐穆宗",
+        "遂王"
+      ],
+      "score": 75
+    },
+    {
+      "id": "jingzong",
+      "oldName": "李湛",
+      "newName": "李湛",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李湛",
+        "敬宗",
+        "唐敬宗",
+        "景王"
+      ],
+      "score": 70
+    },
+    {
+      "id": "wenzong",
+      "oldName": "李昂",
+      "newName": "李昂",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李昂",
+        "文宗",
+        "唐文宗",
+        "江王"
+      ],
+      "score": 76
+    },
+    {
+      "id": "wuzong",
+      "oldName": "李炎",
+      "newName": "李炎",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李炎",
+        "武宗",
+        "唐武宗",
+        "颍王"
+      ],
+      "score": 78
+    },
+    {
+      "id": "xuanzong",
+      "oldName": "李忱",
+      "newName": "李忱",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李忱",
+        "宣宗",
+        "唐宣宗",
+        "光王"
+      ],
+      "score": 86
+    },
+    {
+      "id": "yizong",
+      "oldName": "李漼",
+      "newName": "李漼",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李漼",
+        "懿宗",
+        "唐懿宗",
+        "郓王"
+      ],
+      "score": 68
+    },
+    {
+      "id": "xizong",
+      "oldName": "李儇",
+      "newName": "李儇",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李儇",
+        "僖宗",
+        "唐僖宗",
+        "普王"
+      ],
+      "score": 72
+    },
+    {
+      "id": "zhaozong",
+      "oldName": "李晔",
+      "newName": "李晔",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李晔",
+        "昭宗",
+        "唐昭宗",
+        "寿王"
+      ],
+      "score": 78
+    },
+    {
+      "id": "zhaoxuandi",
+      "oldName": "李柷",
+      "newName": "李柷",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "aliases": [
+        "李柷",
+        "哀帝",
+        "唐哀帝",
+        "昭宣帝",
+        "辉王"
+      ],
+      "score": 65
+    },
+    {
+      "id": "wuchengsi",
+      "oldName": "武承嗣",
+      "newName": "武承嗣",
+      "oldCategory": "皇帝/皇室",
+      "newCategory": "皇帝/皇室",
+      "reason": "role 不含皇帝/宗室/后宫关键词或为外族/官职，从皇帝/皇室移出"
+    }
+  ],
+  "highPriorityNonEmperors": {
+    "anlushan": {
+      "score": 95,
+      "visualPriority": true,
+      "aliases": [
+        "安禄山",
+        "禄山"
+      ]
+    },
+    "guoziyi": {
+      "score": 90,
+      "visualPriority": true,
+      "aliases": [
+        "郭子仪",
+        "子仪"
+      ]
+    },
+    "zhuwen": {
+      "score": 90,
+      "visualPriority": true,
+      "aliases": [
+        "朱温",
+        "朱全忠",
+        "全忠"
+      ]
+    },
+    "huangchao": {
+      "score": 88,
+      "visualPriority": true,
+      "aliases": [
+        "黄巢"
+      ]
+    },
+    "lishiming": {
+      "score": 88,
+      "visualPriority": false,
+      "aliases": [
+        "李靖",
+        "李药师"
+      ]
+    },
+    "ligong": {
+      "score": 85,
+      "visualPriority": false,
+      "aliases": [
+        "李勣",
+        "徐茂公",
+        "李世勣"
+      ]
+    },
+    "weizheng": {
+      "score": 85,
+      "visualPriority": false,
+      "aliases": [
+        "魏征",
+        "魏徵"
+      ]
+    },
+    "fangxuanling": {
+      "score": 82,
+      "visualPriority": false,
+      "aliases": [
+        "房玄龄"
+      ]
+    },
+    "duroming": {
+      "score": 80,
+      "visualPriority": false,
+      "aliases": [
+        "杜如晦"
+      ]
+    },
+    "zhangsunwuji": {
+      "score": 85,
+      "visualPriority": false,
+      "aliases": [
+        "长孙无忌"
+      ]
+    },
+    "yaochong": {
+      "score": 84,
+      "visualPriority": false,
+      "aliases": [
+        "姚崇"
+      ]
+    },
+    "songjing": {
+      "score": 82,
+      "visualPriority": false,
+      "aliases": [
+        "宋璟"
+      ]
+    },
+    "zhangjiuling": {
+      "score": 82,
+      "visualPriority": false,
+      "aliases": [
+        "张九龄"
+      ]
+    },
+    "yangguifei": {
+      "score": 85,
+      "visualPriority": true,
+      "aliases": [
+        "杨贵妃",
+        "杨玉环",
+        "太真"
+      ]
+    },
+    "yangguozhong": {
+      "score": 80,
+      "visualPriority": false,
+      "aliases": [
+        "杨国忠"
+      ]
+    },
+    "gaolishi": {
+      "score": 78,
+      "visualPriority": false,
+      "aliases": [
+        "高力士"
+      ]
+    },
+    "shisiming": {
+      "score": 85,
+      "visualPriority": false,
+      "aliases": [
+        "史思明"
+      ]
+    },
+    "wangxianzhi": {
+      "score": 80,
+      "visualPriority": false,
+      "aliases": [
+        "王仙芝"
+      ]
+    },
+    "qinzhongquan": {
+      "score": 78,
+      "visualPriority": false,
+      "aliases": [
+        "秦宗权"
+      ]
+    },
+    "libai": {
+      "score": 82,
+      "visualPriority": true,
+      "aliases": [
+        "李白",
+        "李太白",
+        "太白"
+      ]
+    },
+    "dufu": {
+      "score": 82,
+      "visualPriority": true,
+      "aliases": [
+        "杜甫",
+        "杜子美"
+      ]
+    },
+    "hanhu": {
+      "score": 75,
+      "visualPriority": false,
+      "aliases": [
+        "韩愈",
+        "韩退之"
+      ]
+    },
+    "liuyuxi": {
+      "score": 75,
+      "visualPriority": false,
+      "aliases": [
+        "刘禹锡",
+        "刘梦得"
+      ]
+    },
+    "baijuyi": {
+      "score": 78,
+      "visualPriority": false,
+      "aliases": [
+        "白居易",
+        "白乐天"
+      ]
+    },
+    "lisan": {
+      "score": 75,
+      "visualPriority": false,
+      "aliases": [
+        "李绅"
+      ]
+    },
+    "duqiumu": {
+      "score": 75,
+      "visualPriority": false,
+      "aliases": [
+        "杜牧",
+        "杜樊川"
+      ]
+    }
+  }
+}

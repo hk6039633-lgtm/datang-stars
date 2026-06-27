@@ -1,0 +1,20 @@
+# 不进入 Vercel 部署包的本地文件与目录
+node_modules/
+.next/
+out/
+dist/
+.git/
+.env
+.env.local
+.env.development
+.env.production
+.node/
+scripts/venv/
+tsconfig.tsbuildinfo
+screenshots/
+_archive/
+*.zip
+*.log
+
+# 文档与报告可保留在源码审查包中，但生产部署不需要超大原始图片备份
+_archive/original-images/
