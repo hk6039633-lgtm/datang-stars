@@ -53,3 +53,5 @@ _archive/
 
 # delivery / review zip packages
 *.zip
+__pycache__/
+*.pyc
