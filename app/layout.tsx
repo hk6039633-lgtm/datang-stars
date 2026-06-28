@@ -2,7 +2,12 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import NavHeader from "./components/NavHeader";
 
+const baseUrl = process.env.VERCEL_URL
+  ? `https://${process.env.VERCEL_URL}`
+  : "https://datang-stars.vercel.app";
+
 export const metadata: Metadata = {
+  metadataBase: new URL(baseUrl),
   title: {
     default: "唐局",
     template: "%s | 唐局",
@@ -16,11 +21,18 @@ export const metadata: Metadata = {
     siteName: "唐局",
     locale: "zh_CN",
     type: "website",
+    images: [{
+      url: "/og-image.jpg",
+      width: 1200,
+      height: 630,
+      alt: "唐局 - 一张图看懂大唐三百年人物、权力与风云",
+    }],
   },
   twitter: {
     card: "summary_large_image",
     title: "唐局",
     description: "一张图看懂大唐三百年人物、权力与风云",
+    images: ["/og-image.jpg"],
   },
   icons: {
     icon: "/favicon.ico",
