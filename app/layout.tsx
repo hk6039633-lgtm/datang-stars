@@ -2,9 +2,7 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import NavHeader from "./components/NavHeader";
 
-const baseUrl = process.env.VERCEL_URL
-  ? `https://${process.env.VERCEL_URL}`
-  : "https://datang-stars.vercel.app";
+const baseUrl = "https://tangju.vkcube.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
