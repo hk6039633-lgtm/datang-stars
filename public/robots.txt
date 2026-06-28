@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tangju.example.com/sitemap.xml
+Sitemap: https://datang-stars.vercel.app/sitemap.xml
