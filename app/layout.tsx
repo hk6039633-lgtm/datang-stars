@@ -20,9 +20,9 @@ export const metadata: Metadata = {
     locale: "zh_CN",
     type: "website",
     images: [{
-      url: "/og-image.jpg",
-      width: 1200,
-      height: 630,
+      url: "/wechat-share.jpg",
+      width: 300,
+      height: 300,
       alt: "唐局 - 一张图看懂大唐三百年人物、权力与风云",
     }],
   },
